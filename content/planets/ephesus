@@ -112,36 +112,3 @@ defaultCore: construction-depot
 parent: sun
 solarSystem: sun
 launchCandidates: []
-itemWhitelist: [
-//natural
-  "item-wood",
-  "item-stone",  
-  "item-sand",
-  "item-clay", 
-  "item-coal", 
-  "item-copper-ore",
-  "item-lead-ore", 
-  "item-iron-ore",
-  "item-magnetite",
-  "item-gold-ore",
-//processed
-  "item-concrete",
-  "item-copper",
-  "item-cast-iron",
-  "item-gold",
-  "item-brick",
-  "item-silicon",
-  "item-steel",
-  "item-rebar",
-//ammo
-  "item-arrow",
-  "item-arrow-incediary",
-  "item-bolt",
-  "item-bolt-incendiary",
-  "item-heavy-bolt",
-  "item-heavy-bolt-incendiary",
-  "item-firework-rocket",
-  "item-firework-rocket-heavy",
-  "item-cannonball",
-  "item-cannonball-explosive",
-]
