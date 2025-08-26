@@ -15,14 +15,14 @@ mesh: [
     persistence: 1.1
   }
   {
-    //ferrinite
+    //grass
     type: NoiseMesh
     planet: ephesus
     divisions: 5
     radius: 1.22
     seed: 94
-    color1: e9e9de
-    color2: c2c1b4
+    color1: 80cb71
+    color2: 6aa95e
     octaves: 3.7
     persistence: 0.6
   }
@@ -33,61 +33,26 @@ mesh: [
     divisions: 6
     seed: 101
     radius: 1.2441
-    color1: babca8
-    color2: c6c282
+    color1: ffe4ca
+    color2: f7cba4
     octaves: 5.1
     persistence: 0.8
   }
   {
-    //demetite
+    //stone
     type: NoiseMesh
     planet: ephesus
     seed: 69
     divisions: 5
-    color1: d5c995
-    color2: 666359
+    color1: 8c8c8c
+    color2: 706f74
     radius: 1.212
     octaves: 4
     persistence: 1
     scale: 0.75
     mag: 1
   }
-  {
-    //barite
-    type: NoiseMesh
-    planet: ephesus
-    divisions: 5
-    seed: 19
-    radius: 1.247
-    color1: f8efe6
-    color2: bab4ae
-    octaves: 4.5
-    persistence: 1.1
-  }
-  {
-    //radian barite
-    type: NoiseMesh
-    planet: ephesus
-    divisions: 6
-    seed: 61
-    radius: 1.248
-    color1: 6b9388
-    color2: 425b54
-    octaves: 4.5
-    persistence: 1.1
-  }
-  {
-    //red sand
-    type: NoiseMesh
-    planet: ephesus
-    divisions: 6
-    seed: 17
-    radius: 1.2514
-    color1: dea67d
-    color2: d58b79
-    octaves: 5.7
-    persistence: 0.9
-  }
+ 
 ]
 cloudMesh: [
  {
@@ -96,34 +61,10 @@ cloudMesh: [
    speed: 1.21
    radius: 0.1
    divisions: 6
-   color: eafffd7e
+   color: ffffff
    octaves: 3
    persistence: 0.3
    scl: 1
-   thresh: 0.6
-  }
-  {
-   type: HexSkyMesh
-   planet: ephesus
-   speed: 1.01
-   radius: 0.11
-   divisions: 6
-   color: eafffd7e
-   octaves: 3
-   persistence: 0.4
-   scl: 0.9
-   thresh: 0.6
-  }
-  {
-   type: HexSkyMesh
-   planet: ephesus
-   speed: 0.891
-   radius: 0.091
-   divisions: 6
-   color: eafffd7e
-   octaves: 3
-   persistence: 0.5
-   scl: 1.1
    thresh: 0.6
   }
 ]
