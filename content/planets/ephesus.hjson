@@ -33,7 +33,7 @@ mesh: [
     divisions: 6
     seed: 101
     radius: 1.2441
-    color1: ffe4ca
+    color1: 4e904f
     color2: f7cba4
     octaves: 5.1
     persistence: 0.8
