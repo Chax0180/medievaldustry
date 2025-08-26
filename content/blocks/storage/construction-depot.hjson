@@ -8,7 +8,7 @@ isFirstTier: true
 size: 2
 squareSprite: false
 alwaysUnlocked: true
-unitType: aplha
+unitType: alpha
 health: 1250
 itemCapacity: 3000
 unitCapModifier: 10
