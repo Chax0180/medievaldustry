@@ -42,11 +42,11 @@ mesh: [
     //stone
     type: NoiseMesh
     planet: ephesus
-    seed: 69
+    seed: 4
     divisions: 5
     color1: 8c8c8c
     color2: 706f74
-    radius: 1.212
+    radius: 1
     octaves: 4
     persistence: 1
     mag: 1
