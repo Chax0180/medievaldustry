@@ -1,0 +1,15 @@
+type: CoreBlock
+name: Construction Depot
+description: Core of the base. Not heavily armored. Stores a good amount of resources.
+requirements: [
+copper/1
+]
+isFirstTier: true
+size: 2
+squareSprite: false
+alwaysUnlocked: true
+unitType: aplha
+health: 1250
+itemCapacity: 3000
+unitCapModifier: 10
+category: effect
