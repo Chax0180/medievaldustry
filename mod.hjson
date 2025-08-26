@@ -1,1 +1,14 @@
+name: mdvldstry
+description:'''
+Adds a new campaign to Mindustry, with unique blocks, items, and units. Progress through the Dark Ages, capture fortresses, develop new tech, and climb to new heights.
 
+Even better, the mod adds all of this in its own planet, Ephesus.
+
+WIP as of now.
+'''
+author: Chax0180
+minGameVersion: 146
+version: 1.7.1
+displayName: Medievaldustry
+subtitle: "I swear Constantinople was right here."
+repo: "Chax0180/medievaldustry"
