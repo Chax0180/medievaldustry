@@ -8,9 +8,9 @@ requirements: [
   wood/20
   stone/25
 ]
-drillTime: 60
+drillTime: 80
 output: wood
-attribute: tree
+attribute: living-tree
 ambientSound: cutting
 ambientSoundVolume: 0.24
 alwaysUnlocked: true
