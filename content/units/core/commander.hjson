@@ -1,17 +1,17 @@
 type: legs
 name: Commander
 description: Bluids for and defends the Construction Depot.
-speed: 0.6
+speed: 1.25
 health: 170
 armor: 1
 flying: false
-legExtension: -2.5
+legExtension: 0.3
 buildSpeed: 0.6
-legMoveSpace: 0.9
+legMoveSpace: 1.2
 hovering: false
 isEnemy: false
 legCount: 6
-legLength: 8
+legLength: 12
 legSpeed: 0.23
 legForwardScl: 0.56
 itemCapacity: 25
