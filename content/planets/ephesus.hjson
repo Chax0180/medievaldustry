@@ -77,10 +77,10 @@ generator: {
   max: 100
   radMin: 220
   radMax: 600
-  iceChance: 0.51
+  iceChance: 0
   carbonChance: 0
   berylChance: 0
-  ferricChance: 0.26
+  ferricChance: 0
 }
 orbitRadius: 25
 sectorSize: 1
