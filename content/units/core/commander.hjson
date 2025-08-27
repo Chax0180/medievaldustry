@@ -1,0 +1,23 @@
+type: legs
+legCount: 3
+legLength: 8
+legSpeed: 0.23
+legForwardScl: 0.56
+legMoveSpace: 0.9
+hovering: true
+groundLayer: 60
+name: Zeta
+description: Defends the Construction Depot. Builds structures and mines ores.
+health: 135
+armor: 1
+mineFloor: true
+mineWalls: true
+speed: 1
+hitSize: 4
+isEnemy: false
+mineSpeed: 3
+mineTier: 1
+buildSpeed: 0.8
+drag: 0.4
+itemCapacity: 30
+alwaysUnlocked: true
