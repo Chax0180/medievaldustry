@@ -1,0 +1,17 @@
+type: WallCrafter
+name: Chopper
+description: Harvests wood from trees and logs.
+size: 1
+category: production
+research: construction-depot
+requirements: [
+  wood/20
+  stone/25
+]
+drillTime: 60
+output: wood
+attribute: tree
+ambientSound: cutting
+ambientSoundVolume: 0.24
+alwaysUnlocked: true
+squareSprite: false
