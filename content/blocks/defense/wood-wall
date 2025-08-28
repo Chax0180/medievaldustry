@@ -2,7 +2,7 @@ type: Wall
 name: Wood Wall
 description: A wall made of wood. Protects allied structures from damage.
 size: 1
-health: 200
+health: 1100
 category: defense
 squareSprite: false
 research: construction-depot
