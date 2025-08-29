@@ -1,16 +1,16 @@
 type: legs
-name: Araneus
-description: Builds for the Construction Depot.
-speed: 1.25
-health: 170
-armor: 1
-flying: true
+name: Aranaeus
+description: A massive five-legged walker of unknown origin.
+speed: 0.7
+health: 9000
+armor: 10
+flying: false
 legExtension: 0.3
 legMoveSpace: 1.2
 hovering: false
 isEnemy: false
-legCount: 16
-legLength: 100
+legCount: 5
+legLength: 80
 legSpeed: 0.4
 legForwardScl: 5
 hitSize: 25
