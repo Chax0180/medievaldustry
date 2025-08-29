@@ -9,7 +9,7 @@ requirements: [
   item-stone/25
 ]
 drillTime: 80
-output: item-wood/2
+output: item-wood
 attribute: living-tree
 ambientSound: cutting
 ambientSoundVolume: 0.24
