@@ -7,6 +7,6 @@ category: defense
 squareSprite: false
 research: construction-depot
 requirements: [
-  wood/6
+  item-wood/6
 ] 
 researchCostMultiplier: 0.05
