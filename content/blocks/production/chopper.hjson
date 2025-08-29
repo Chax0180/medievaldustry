@@ -5,11 +5,11 @@ size: 1
 category: production
 research: construction-depot
 requirements: [
-  wood/20
+  item-wood/20
   stone/25
 ]
 drillTime: 80
-output: wood
+output: item-wood/2
 attribute: living-tree
 ambientSound: cutting
 ambientSoundVolume: 0.24
