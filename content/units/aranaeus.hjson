@@ -1,5 +1,5 @@
 type: legs
-name: Cthulhu
+name: Araneus
 description: Builds for the Construction Depot.
 speed: 1.25
 health: 170
@@ -9,9 +9,9 @@ legExtension: 0.3
 legMoveSpace: 1.2
 hovering: false
 isEnemy: false
-legCount: 60
-legLength: 60
-legSpeed: 0.15
-legForwardScl: 0.56
+legCount: 16
+legLength: 100
+legSpeed: 0.4
+legForwardScl: 5
 hitSize: 25
 alwaysUnlocked: true
