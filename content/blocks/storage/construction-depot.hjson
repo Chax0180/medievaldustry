@@ -2,7 +2,7 @@ type: CoreBlock
 name: Construction Depot
 description: Core of the base. Not heavily armored. Stores a good amount of resources.
 requirements: [
-copper/1
+item-wood/1000
 ]
 isFirstTier: true
 size: 2
@@ -11,5 +11,5 @@ alwaysUnlocked: true
 unitType: commander
 health: 1250
 itemCapacity: 3000
-unitCapModifier: 10
+unitCapModifier: 12
 category: effect
