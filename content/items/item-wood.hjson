@@ -1,0 +1,8 @@
+name: Wood
+description: A lightweight, fibrous material. Flammable.
+hardness: 0.5
+flammability: 0.75
+cost: 0.5
+research: construction-depot
+color: 784a42
+hiddenOnPlanets: [serpulo, erekir]
