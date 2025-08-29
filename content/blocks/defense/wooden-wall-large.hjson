@@ -2,7 +2,7 @@ type: Wall
 name: Large Wooden Wall
 description: A large wall made of wood. Protects allied structures from damage.
 size: 2
-health: 275
+health: 1100
 category: defense
 squareSprite: false
 research: wood-wall
