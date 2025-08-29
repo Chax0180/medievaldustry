@@ -6,7 +6,7 @@ category: production
 research: construction-depot
 requirements: [
   item-wood/20
-  stone/25
+  item-stone/25
 ]
 drillTime: 80
 output: item-wood/2
