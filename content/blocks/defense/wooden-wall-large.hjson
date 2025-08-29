@@ -7,5 +7,5 @@ category: defense
 squareSprite: false
 research: wood-wall
 requirements: [
-  wood/24
+  item-wood/24
 ]
