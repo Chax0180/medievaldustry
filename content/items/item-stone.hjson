@@ -1,5 +1,5 @@
 name: Stone
-description: Basic rock.
+description: A common raw material. Used as a structural component.
 hardness: 1.25
 cost: 0.5
 research: item-stone
