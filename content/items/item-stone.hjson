@@ -1,0 +1,7 @@
+name: Stone
+description: Basic rock.
+hardness: 1.25
+cost: 0.5
+research: item-stone
+color: 989aa4
+hiddenOnPlanets: [serpulo, erekir]
