@@ -1,5 +1,5 @@
 type: StaticWall
 name: Dry Wood Wall
 attributes: {
-  wood/0.8
+  wood: 1
 }
