@@ -1,5 +1,5 @@
 type: StaticWall
 name: Pine
 attributes: {
- wood: 1
+ wood: 1.25
 }
