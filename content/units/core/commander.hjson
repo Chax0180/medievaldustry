@@ -1,6 +1,6 @@
 type: legs
 name: Commander
-description: Builds for the Construction Depot.
+description: Builds for and defends the Construction Depot.
 speed: 1.25
 health: 170
 armor: 1
@@ -32,7 +32,7 @@ weapons: [
         damage: 10
         lightningLength: 10
         lightningLengthRand: 3
-        lightningColor: bc5452
+        lightningColor: 84f491
         healPercent: 2
         collidesTeam: true
         pierce: true
