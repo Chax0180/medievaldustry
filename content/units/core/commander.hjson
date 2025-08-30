@@ -26,5 +26,6 @@ abilities: [
     y: -5
     sectors: 3
     sectorRad: 0.05
+   displayHeal: false
   }
 ]
