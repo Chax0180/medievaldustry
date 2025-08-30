@@ -17,6 +17,22 @@ legForwardScl: 0.56
 itemCapacity: 25
 hitSize: 4
 alwaysUnlocked: true
+weapons: [
+{
+  x: 0
+    y: 3
+    reload: 15
+    mirror: false
+    rotate: false
+    shootSound: lasershot
+    inaccuracy: 0
+    bullet: {
+      type: LaserBoltBulletType
+      lifetime: 30
+      damage: 10
+    }
+  }
+]
 abilities: [
    {
     type: EnergyFieldAbility
@@ -25,7 +41,8 @@ abilities: [
     range: 25
     y: -5
     sectors: 3
-   effectRadius: 0
+   effectRadius: .5
 sectorRad: 0.28
+hitUnits: false
   }
 ]
