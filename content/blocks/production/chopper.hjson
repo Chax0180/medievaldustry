@@ -10,7 +10,7 @@ requirements: [
 ]
 drillTime: 80
 output: item-wood
-attribute: living-tree
+attribute: pine
 ambientSound: cutting
 ambientSoundVolume: 0.24
 alwaysUnlocked: true
