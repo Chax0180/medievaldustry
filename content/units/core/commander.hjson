@@ -17,3 +17,29 @@ legForwardScl: 0.56
 itemCapacity: 25
 hitSize: 4
 alwaysUnlocked: true
+weapons: [
+{
+  x: 0
+    y: 3
+    reload: 10
+    mirror: false
+    rotate: false
+    shootSound: laser
+    inaccuracy: 0
+    bullet: {
+      type: LaserBulletType
+      colors: [bc5452, ea8878, feb380]
+      width: 2
+      length: 60
+      damage: 18
+      healPercent: 4
+      collidesTeam: true
+      pierce: true
+      pierceBuilding: false
+      pierceCap: 1
+      shootEffect: shootSmall
+      smokeEffect: shootSmallSmoke
+      hitColor: bc5452
+    }
+  }
+]
