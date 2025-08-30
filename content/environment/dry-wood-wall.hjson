@@ -1,8 +1,14 @@
 type: StaticWall
-name: dry-wood-wall
+name: dry-wood-wall          // no spaces in the content name!
 localizedName: Dry Wood Wall
-mapColor: 9e7e5f
-description: A dried log.
-attributes: {
+
+inEditor: true               // make it show up in the editor palette
+variants: 1                  // 1 is fine if you only have one sprite
+mapColor: 7d5a3cff           // minimap color (any hex is fine)
+
+breakable: true              // optional; lets you destroy it in-game
+health: 200                  // optional; gives it HP if breakable
+
+attributes: {                // optional; your custom attribute
   wood: 1
 }
