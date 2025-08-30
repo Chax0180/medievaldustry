@@ -24,7 +24,8 @@ abilities: [
     reload: 15
     range: 25
     y: -5
-    sectors: -1
+    sectors: 3
+   effectRadius: 0
 sectorRad: 0.28
   }
 ]
