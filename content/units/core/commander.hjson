@@ -24,12 +24,13 @@ weapons: [
     reload: 15
     mirror: false
     rotate: false
-    shootSound: lasershot
+    shootSound: lasershoot
     inaccuracy: 0
     bullet: {
       type: LaserBoltBulletType
       lifetime: 30
       damage: 10
+      speed: 4
     }
   }
 ]
@@ -41,7 +42,7 @@ abilities: [
     range: 25
     y: -5
     sectors: 3
-   effectRadius: .5
+   effectRadius: 1.75
 sectorRad: 0.28
 hitUnits: false
   }
