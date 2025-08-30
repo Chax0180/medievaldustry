@@ -21,7 +21,7 @@ weapons: [
 {
   x: 0
     y: 3
-    reload: 60
+    reload: 15
     recoil: 1.5
     mirror: false
     rotate: false
@@ -29,13 +29,14 @@ weapons: [
     inaccuracy: 0
     bullet: {
         type: LightningBulletType
-        damage: 10
+        damage: 5
         lightningLength: 10
         lightningLengthRand: 3
         lightningColor: 84f491
         healPercent: 2
         collidesTeam: true
         pierce: true
+        buildingDamageMultiplier: 0.99
     }
   }
 ]
