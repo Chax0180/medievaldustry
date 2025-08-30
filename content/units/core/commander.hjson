@@ -25,7 +25,6 @@ abilities: [
     range: 25
     y: -5
     sectors: 3
-    sectorRad: 0.05
-   displayHeal: false
+sectorRad: 0.28
   }
 ]
