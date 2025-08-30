@@ -1,5 +1,8 @@
 type: StaticWall
-name: Dry Wood Wall
+name: dry-wood-wall
+localizedName: Dry Wood Wall
+mapColor: 9e7e5f
+description: A dried log.
 attributes: {
   wood: 1
 }
