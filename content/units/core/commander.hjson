@@ -31,7 +31,8 @@ weapons: [
       lifetime: 30
       damage: 10
       speed: 4
-      color: 84f491
+      lightColor: 84f491
+      buildingDamageMultiplier: 0.99
     }
   }
 ]
