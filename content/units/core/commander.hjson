@@ -17,26 +17,14 @@ legForwardScl: 0.56
 itemCapacity: 25
 hitSize: 4
 alwaysUnlocked: true
-weapons: [
-{
-  x: 0
-    y: 3
+abilities: [
+   {
+    type: EnergyFieldAbility
+    damage: 1
     reload: 15
-    recoil: 1.5
-    mirror: false
-    rotate: false
-    shootSound: spark
-    inaccuracy: 0
-    bullet: {
-        type: LightningBulletType
-        damage: 5
-        lightningLength: 10
-        lightningLengthRand: 3
-        lightningColor: 84f491
-        healPercent: 2
-        collidesTeam: true
-        pierce: true
-        buildingDamageMultiplier: 0.99
-    }
+    range: 25
+    y: -5
+    sectors: 3
+    sectorRad: 0.05
   }
 ]
